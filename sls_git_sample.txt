@@ -1,2 +1,4 @@
 this is my first sample file 
 to check git is working or not
+
+am rewriting sample file
